@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T00:26:52 IST" name="Default suite" finished-at="2024-02-16T00:26:58 IST" duration-ms="6113">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T00:26:52 IST" name="Default test" finished-at="2024-02-16T00:26:58 IST" duration-ms="6113">
+      <class name="Testcases.saudeTestcases">
+        <test-method signature="initialsteps()[pri:0, instance:Testcases.saudeTestcases@fa49800]" started-at="2024-02-16T00:26:52 IST" name="initialsteps" finished-at="2024-02-16T00:26:55 IST" duration-ms="3356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsteps -->
+        <test-method signature="login()[pri:1, instance:Testcases.saudeTestcases@fa49800]" started-at="2024-02-16T00:26:55 IST" name="login" finished-at="2024-02-16T00:26:55 IST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="shop()[pri:2, instance:Testcases.saudeTestcases@fa49800]" started-at="2024-02-16T00:26:55 IST" name="shop" finished-at="2024-02-16T00:26:57 IST" duration-ms="1641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shop -->
+        <test-method signature="bkhm()[pri:3, instance:Testcases.saudeTestcases@fa49800]" started-at="2024-02-16T00:26:57 IST" name="bkhm" finished-at="2024-02-16T00:26:57 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bkhm -->
+        <test-method signature="menuclik()[pri:4, instance:Testcases.saudeTestcases@fa49800]" started-at="2024-02-16T00:26:57 IST" name="menuclik" finished-at="2024-02-16T00:26:57 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuclik -->
+        <test-method is-config="true" signature="logot()[pri:0, instance:Testcases.saudeTestcases@fa49800]" started-at="2024-02-16T00:26:57 IST" name="logot" finished-at="2024-02-16T00:26:58 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logot -->
+      </class> <!-- Testcases.saudeTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
